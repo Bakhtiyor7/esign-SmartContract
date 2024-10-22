@@ -126,11 +126,11 @@
 	},
 	"sources": {
 		"contracts/BnbSmartContractTest.sol": {
-			"keccak256": "0x81be56bc50ab40ceb16c5febfccda3ecbad08581adc77d1869688a081e9ff16a",
+			"keccak256": "0x74ef464c6ec00bd924eb2816a88cb7875c4f42cedbc350cfe9a0caadc0615489",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://403e7eddef893e4251bbc2cfdd2c47de3d0c3f7e4ca75b42f07e5dc5c6a3ec83",
-				"dweb:/ipfs/QmZGCAbSA9nq4Ueuaudggx4oN8cqL52inCxDzNXADrhJs8"
+				"bzz-raw://38c060d02b989d74e6035b66fd9b97a3fae04bf38a6708c64fb73441b2177977",
+				"dweb:/ipfs/Qma96PCQqwFpSYbp7ZeiEMjoFxhLiRzfzsFEpdJJRHZLp7"
 			]
 		}
 	},
